@@ -5,8 +5,8 @@ class ATM
 {
 public static void main (String args[])
 {
-String cid = "ne2002";
-String cpass = "Neh0805";
+String cid = "OASIS2511";
+String cpass = "0985";
 Scanner sc = new Scanner(System.in);
 System.out.println("ENTER LOGIN ID: ");
 String id = sc.next();
