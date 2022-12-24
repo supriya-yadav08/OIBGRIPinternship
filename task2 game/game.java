@@ -58,6 +58,6 @@ System.out.println("****************************************************");
 System.out.println("Do you want to play again(y/n)");
 c=sc.next().charAt(0);
 }
-while(c=='y');
+while(c=='y'|| c=='Y');
 }
 }
